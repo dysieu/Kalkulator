@@ -1,0 +1,14 @@
+C:\Users\mateusz\Desktop\Kalkulator\Kalkulator\Kalkulator.DataAccess\bin\Debug\net6.0\Kalkulator.DataAccess.deps.json
+C:\Users\mateusz\Desktop\Kalkulator\Kalkulator\Kalkulator.DataAccess\bin\Debug\net6.0\Kalkulator.DataAccess.runtimeconfig.json
+C:\Users\mateusz\Desktop\Kalkulator\Kalkulator\Kalkulator.DataAccess\bin\Debug\net6.0\Kalkulator.DataAccess.dll
+C:\Users\mateusz\Desktop\Kalkulator\Kalkulator\Kalkulator.DataAccess\bin\Debug\net6.0\Kalkulator.DataAccess.pdb
+C:\Users\mateusz\Desktop\Kalkulator\Kalkulator\Kalkulator.DataAccess\obj\Debug\net6.0\Kalkulator.DataAccess.csproj.AssemblyReference.cache
+C:\Users\mateusz\Desktop\Kalkulator\Kalkulator\Kalkulator.DataAccess\obj\Debug\net6.0\Kalkulator.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateusz\Desktop\Kalkulator\Kalkulator\Kalkulator.DataAccess\obj\Debug\net6.0\Kalkulator.DataAccess.AssemblyInfoInputs.cache
+C:\Users\mateusz\Desktop\Kalkulator\Kalkulator\Kalkulator.DataAccess\obj\Debug\net6.0\Kalkulator.DataAccess.AssemblyInfo.cs
+C:\Users\mateusz\Desktop\Kalkulator\Kalkulator\Kalkulator.DataAccess\obj\Debug\net6.0\Kalkulator.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mateusz\Desktop\Kalkulator\Kalkulator\Kalkulator.DataAccess\obj\Debug\net6.0\Kalkulator.DataAccess.dll
+C:\Users\mateusz\Desktop\Kalkulator\Kalkulator\Kalkulator.DataAccess\obj\Debug\net6.0\refint\Kalkulator.DataAccess.dll
+C:\Users\mateusz\Desktop\Kalkulator\Kalkulator\Kalkulator.DataAccess\obj\Debug\net6.0\Kalkulator.DataAccess.pdb
+C:\Users\mateusz\Desktop\Kalkulator\Kalkulator\Kalkulator.DataAccess\obj\Debug\net6.0\Kalkulator.DataAccess.genruntimeconfig.cache
+C:\Users\mateusz\Desktop\Kalkulator\Kalkulator\Kalkulator.DataAccess\obj\Debug\net6.0\ref\Kalkulator.DataAccess.dll
